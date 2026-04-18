@@ -1,1 +1,30 @@
-{}
+.navMenu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+
+}
+.profilPrincipal{
+    background-color: blue;
+    height: 100px;
+
+}
+.sectionGalerie{ 
+   height: 100px;
+
+}
+.sectionNosServices{
+height: 100px;
+gap: 10px;
+margin-top: 20px;
+}
+.reservation{
+height: 100px;
+}
+.section1{
+
+    margin-left: 300px;
+    margin-right: 300px;
+}
